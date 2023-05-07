@@ -68,4 +68,8 @@ fitness for a particular purpose, and non-infringement. The author and contribut
 omissions in the contents of this script. In no event shall the author and contributors be liable for any damages arising out of
 the use of this script.
 """
+#This script includes a clear_screen() function that works on both Windows and Linux systems, and it uses subprocess.run() with check=True to raise a CalledProcessError if the command fails to execute properly.
 
+#The script includes a display_menu() function that shows the main menu to the user, and a main() function that repeatedly displays the menu until the user chooses to exit the script.
+
+#The script also includes a disclaimer that specifies that the script is provided "AS IS" without any warranties of any kind, and that the author and contributors assume no responsibility for errors or omissions in the contents of the script.
